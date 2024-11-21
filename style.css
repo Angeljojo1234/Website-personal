@@ -1,0 +1,54 @@
+@keyframes animasi { 
+    100% {
+        background-position: 25% 50%;
+    }
+}
+
+body {
+    background-image:url("hollowed-boxes.svg");
+    animation: animasi 3s infinite alternate ease-in;
+}
+
+.box {
+    background-color: rgb(250, 250, 250);
+    width: 40%;
+    height: 100%;
+    margin: auto;
+    margin-top: 140px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+.button {
+    background-color: rgb(170, 203, 232);
+    padding: 10px 30px 10px 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.paragraph {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.image-box {
+    background-image: url("hi.jpg");
+    height: 180px;
+    background-size: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.text-box {
+    padding: 8px 30px 30px 30px;
+}
+
+.footer {
+    background-color: rgb(175, 209, 240);
+    height: 50px;
+    border-radius: 0px 0px 20px 20px;
+    color: white;
+    padding: 20px;
+}

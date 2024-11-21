@@ -1,0 +1,112 @@
+.Parallax1 {
+    background-image: url("bye.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+body {
+    margin: 0;
+}
+
+.paragraf1 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax2 {
+    background-image: url("p.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraf2 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax3 {
+    background-image: url("n.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraf3 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax4 {
+    background-image: url("M.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraf4 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax5 {
+    background-image: url("K.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraf5 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax6 {
+    background-image: url("R.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraf6 {
+    font-family: cursive;
+    margin: 30px 130px 30px 130px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.Parallax7 {
+    background-image: url("A.jpg");
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.parallax-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: cursive;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
